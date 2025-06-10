@@ -8,3 +8,4 @@ class MyClass:
     ...
 
 a = 2
+b = 4.0918
